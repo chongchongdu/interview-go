@@ -32,9 +32,9 @@
 
 ## Redis基础
 
-- [Redis 基础数据结构](base/redis.md)
-- [Redis中的底层数据结构](base/redis-data-structure.md)
-- [Redis持久化的原理及优化](base/redis-rdb.md)
+- [Redis 基础数据结构](redis/redis.md)
+- [Redis中的底层数据结构](redis/redis-data-structure.md)
+- [Redis持久化的原理及优化](redis/redis-rdb.md)
 - [Redis中内存淘汰算法实现](redis/redis-policy.md)
 - [Redis主从复制原理](redis/redis-master-slave.md)
 
